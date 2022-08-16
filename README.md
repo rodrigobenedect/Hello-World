@@ -1,2 +1,2 @@
 # Hello World
- First SCV 
+ First VCS - Curso de Git + GitHub 
